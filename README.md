@@ -6,6 +6,7 @@ model2: Logistic Regresjon,
 
 
 model1 consists of the following steps:
+
   -Pre-processing of given data
   -Vector space model to represent documents (bag-of-words) then  Visualizing them (matlibplot) 
   -term frequency–inverse(=tf-idf) for weighting the word vectors, the more informative word vectors the higher weight, 
@@ -21,8 +22,8 @@ model2 consists of the following steps:
   -training, predicting, evaluatiing, l Analysing of the model
   
 - Secquence models for association words to their phonetic features
-  - Named Entity Recognition (=NER)
-  - Hidden Markov Model (HMM) associating Each word with a particular class, 
+  -Named Entity Recognition (=NER)
+  -Hidden Markov Model (HMM) associating Each word with a particular class, 
     using so-called BIO annotation
  
  
