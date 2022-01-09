@@ -15,7 +15,7 @@ These models cover different areas of NLP.
 
 
 ......................................................................................................................................................................
--- the implementating steps for every model:
+- the implementating steps for every model:
 
 - model 1 :
 
