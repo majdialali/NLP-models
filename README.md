@@ -1,4 +1,7 @@
-These models conver different areas of NLP.
+Tshort description of the models:
+
+
+hese models conver different areas of NLP.
 key words:
 model1:  Vector space model, term frequency–inverse, classification via k-NN
 model2: Logistic Regresjon, 
