@@ -57,7 +57,7 @@ These models cover different areas of NLP.
 
 - model 4:
 
- -building a simple machine translation model and  interactive system( chatbot)
+  -building a simple machine translation model and  interactive system( chatbot)
  
 
  Obs. more details followed  in the folders (written in Norwegian).
