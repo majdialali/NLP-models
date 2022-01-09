@@ -43,7 +43,6 @@ These models cover different areas of NLP.
     -Hidden Markov Model (=HMM) associating Each word with a particular class, 
       using so-called BIO annotation
 
- 
      
 - model 3:
 
@@ -54,8 +53,9 @@ These models cover different areas of NLP.
   -Then using NLP library spaCy to train a dependency parser on a Norwegian Treebank and evaluate the quality of the parser.
 
   -At the end a closer look at how the parser works on others variants of Norwegian language.
+  
 
-model 4:
+- model 4:
 
  -building a simple machine translation model and  interactive system( chatbot)
  
