@@ -15,8 +15,9 @@ These models cover different areas of NLP.
 
 
 ......................................................................................................................................................................
+-- the implementating steps for every model:
 
-- model1 consists of the following steps:
+- model 1 :
 
   -Pre-processing of given data
   
