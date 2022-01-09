@@ -22,14 +22,14 @@ model2: Logistic Regresjon,
 
 - model2 consists of the following steps:
 
--Logistic Regresjon for identifying which language a word belongs to via its phonetic features (transcriptions) 
-  -training, predicting, evaluatiing, l Analysing of the model
-  
--Secquence models for association words to their phonetic features
-  -Named Entity Recognition (=NER)
-  -Hidden Markov Model (HMM) associating Each word with a particular class, 
-    using so-called BIO annotation
- 
+  -Logistic Regresjon for identifying which language a word belongs to via its phonetic features (transcriptions) 
+    -training, predicting, evaluatiing, l Analysing of the model
+
+  -Secquence models for association words to their phonetic features
+    -Named Entity Recognition (=NER)
+    -Hidden Markov Model (HMM) associating Each word with a particular class, 
+      using so-called BIO annotation
+
  
  Obs. more details followed  in the folders (written in Norwegian).
  
