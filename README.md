@@ -47,7 +47,7 @@ These models cover different areas of NLP.
 
   -dependency parsing on Norwegian languauge with  CoNLL-U format.
 
-  -First a transition-based parsing algorithm for dependency parsing
+  -First a transition-based parsing algorithm for dependency parsing + graphs dependency.
 
   -Then using NLP library spaCy to train a dependency parser on a Norwegian Treebank and evaluate the quality of the parser.
 
