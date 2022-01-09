@@ -12,9 +12,13 @@ model2: Logistic Regresjon,
 - model1 consists of the following steps:
 
   -Pre-processing of given data
+  
   -Vector space model to represent documents (bag-of-words) then  Visualizing them (matlibplot) 
+  
   -term frequency–inverse(=tf-idf) for weighting the word vectors, the more informative word vectors the higher weight, 
+  
   -classification via k-NN(k-nearest neighbors algorithm) for predicting which category the documents belong to. 
+  
   -at the end, we test and  evaluate the model
   
  
