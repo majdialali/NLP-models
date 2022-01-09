@@ -4,6 +4,7 @@ Short description of the models:
 These models cover different areas of NLP.
 
 - key words:
+
   -model 1:  Vector space model, term frequency–inverse, classification via k-NN
 
   -model 2: Logistic Regresjon, Sequence models (NER, HMM)
