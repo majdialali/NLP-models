@@ -4,9 +4,13 @@ Short description of the models:
 These models cover different areas of NLP.
 
 - key words:
-model1:  Vector space model, term frequency–inverse, classification via k-NN
+  -model 1:  Vector space model, term frequency–inverse, classification via k-NN
 
-model2: Logistic Regresjon, 
+  -model 2: Logistic Regresjon, Sequence models (NER, HMM)
+
+  -model 3: dependency parsing and spaCy
+
+  -model 4: 
 
 
 
@@ -30,11 +34,11 @@ model2: Logistic Regresjon,
   -Logistic Regresjon for identifying which language a word belongs to via its phonetic features (transcriptions) 
     -training, predicting, evaluatiing, l Analysing of the model
 
-  -Secquence models for association words to their phonetic features
+  -Sequence models for association words to their phonetic features
   
     -Named Entity Recognition (=NER)
     
-    -Hidden Markov Model (HMM) associating Each word with a particular class, 
+    -Hidden Markov Model (=HMM) associating Each word with a particular class, 
       using so-called BIO annotation
 
  
