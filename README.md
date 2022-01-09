@@ -1,7 +1,4 @@
-- Short description of the models:
-
-
-These models cover different areas of NLP.
+- Short description of these models which cover different areas of NLP.
 
 - key words:
 
