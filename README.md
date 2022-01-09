@@ -1,4 +1,4 @@
-Tshort description of the models:
+Short description of the models:
 
 
 hese models conver different areas of NLP.
