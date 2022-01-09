@@ -1,4 +1,4 @@
-Short description of the models:
+- Short description of the models:
 
 
 These models cover different areas of NLP.
