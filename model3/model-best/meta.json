@@ -1,0 +1,29 @@
+{
+  "lang":"nb",
+  "pipeline":[
+    "parser"
+  ],
+  "spacy_version":">=2.1.3",
+  "speed":{
+    "nwords":36369,
+    "cpu":18221.7348692901,
+    "gpu":null
+  },
+  "accuracy":{
+    "uas":89.9042740915,
+    "las":86.5468401081,
+    "ents_p":0.0,
+    "ents_r":0.0,
+    "ents_f":0.0,
+    "tags_acc":0.0,
+    "token_acc":100.0
+  },
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":"spacy_pretrained_vectors"
+  },
+  "name":"model0",
+  "version":"0.0.0"
+}
