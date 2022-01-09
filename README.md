@@ -25,7 +25,7 @@ model2: Logistic Regresjon,
  
 
 
-- model2 consists of the following steps:
+- model 2 consists of the following steps:
 
   -Logistic Regresjon for identifying which language a word belongs to via its phonetic features (transcriptions) 
     -training, predicting, evaluatiing, l Analysing of the model
@@ -38,5 +38,18 @@ model2: Logistic Regresjon,
       using so-called BIO annotation
 
  
+     
+- model 3:
+
+  -dependency parsing on Norwegian languauge with  CoNLL-U format.
+
+  -First a transition-based parsing algorithm for dependency parsing
+
+  -Then using NLP library spaCy to train a dependency parser on a Norwegian Treebank and evaluate the quality of the parser.
+
+  -At the end a closer look at how the parser works on others variants of Norwegian language.
+
+
+
  Obs. more details followed  in the folders (written in Norwegian).
  
