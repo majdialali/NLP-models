@@ -10,7 +10,7 @@ These models cover different areas of NLP.
 
   -model 3: dependency parsing and spaCy
 
-  -model 4: 
+  -model 4:  machine translation  and  interactive system (chatbot)
 
 
 
@@ -53,7 +53,10 @@ These models cover different areas of NLP.
 
   -At the end a closer look at how the parser works on others variants of Norwegian language.
 
+model 4:
 
+ -building a simple machine translation model and  interactive system( chatbot)
+ 
 
  Obs. more details followed  in the folders (written in Norwegian).
  
