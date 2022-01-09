@@ -26,5 +26,5 @@ model2 consists of the following steps:
     using so-called BIO annotation
  
  
- more details followed  in the folders (written in Norwegian).
+ Obs. more details followed  in the folders (written in Norwegian).
  
